@@ -18,3 +18,4 @@
 ## 我的博客
 我写的博客：
 - [2022/08/20 dos攻击](https://Rainwangpupil.github.io/blog/2022-08-20-dos_attack.html)
+- [2022/08/20 装饰器](https://Rainwangpupil.github.io/blog/2022-08-20-Zhuangshi.html)
