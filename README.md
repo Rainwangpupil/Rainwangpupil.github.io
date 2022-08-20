@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 欢迎你来到我的博客
 
-You can use the [editor on GitHub](https://github.com/Rainwangpupil/Rainwangpupil.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- [个人介绍](#个人介绍)
+- [我的项目](#我的项目)
+- [我的博客](#我的博客)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人介绍
+鄙人是一个五年级的小学毕业生（五四学制），学习编程已有4年，最为熟悉的语言为Python,喜欢用Github开源自己写的东西
 
-### Markdown
+我的微信: `Lucky_pupil_github`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 我的项目
+我开发过一些开源项目
+- [Rainwangpupil/dos_attack](https://github.com/Rainwangpupil/dos_attack)
+- [Wdataorg/Wdata](https://github.com/Wdataorg/Wdata)
+> 注:Wdataorg属于本人所有
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rainwangpupil/Rainwangpupil.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 我的博客
+我写的博客：
+- [2022/08/20 dos攻击](https://Rainwangpupil.github.io/blog/2022-08-20-dos_attack.md)
