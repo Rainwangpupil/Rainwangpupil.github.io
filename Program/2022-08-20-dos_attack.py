@@ -1,3 +1,12 @@
+"""
+Author: Rainwangpupil
+Project Name: dos_attack
+Data: 2022.08.20
+
+You can use 'https://Rainwangpupil.github.io/Program/2022-08-20-dos_attack.py' to download this file
+"""
+
+
 import socket
 import threading
 
