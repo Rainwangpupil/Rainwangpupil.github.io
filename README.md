@@ -20,3 +20,4 @@
 - [2022/08/20 dos攻击](https://Rainwangpupil.github.io/blog/2022-08-20-dos_attack.html)
 - [2022/08/20 装饰器](https://Rainwangpupil.github.io/blog/2022-08-20-Zhuangshi.html)
 - [2022/08/21 二分法](https://Rainwangpupil.github.io/blog/2022-08-21-Two-Fen.html)
+- [2022/09/11 如何用github搭建个人博客](https://Rainwangpupil.github.io/blog/2022-09-11-blog-github.html)
