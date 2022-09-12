@@ -1,5 +1,0 @@
-询问：你想要输入什么？
-引用：终端
-终端输入：git add *
-终端输入：git commit -m "编写github blog配置(Part 1)"
-终端输入：git push

@@ -33,23 +33,23 @@
 
 打开选项勾，调整完毕后点`Save`
 
-![https://rainwangpupil.github.io/assets/配置p3.jpg](https://rainwnagpupil.github.io/assets/配置p3.jpg)
+![https://rainwangpupil.github.io/assets/配置p3.jpg](https://rainwangpupil.github.io/assets/配置p3.jpg)
 
-![https://rainwangpupil.github.io/assets/配置p4.jpg](https://rainwnagpupil.github.io/assets/配置p4.jpg)
+![https://rainwangpupil.github.io/assets/配置p4.jpg](https://rainwangpupil.github.io/assets/配置p4.jpg)
 
 点击`Code`回到主页，点击`Add file`,选择`Creat New file`
 
-![https://rainwangpupil.github.io/assets/配置p5.jpg](https://rainwnagpupil.github.io/assets/配置p5.jpg)
+![https://rainwangpupil.github.io/assets/配置p5.jpg](https://rainwangpupil.github.io/assets/配置p5.jpg)
 
 标题改成`__config.yml`在编辑栏里写入以下内容：
 ```
 theme: jekyll-theme-cayman
 ```
-![https://rainwangpupil.github.io/assets/配置p6.jpg](https://rainwnagpupil.github.io/assets/配置p6.jpg)
+![https://rainwangpupil.github.io/assets/配置p6.jpg](https://rainwangpupil.github.io/assets/配置p6.jpg)
 
 点击下面的`Commit New file`
 
-![https://rainwangpupil.github.io/assets/配置p7.jpg](https://rainwnagpupil.github.io/assets/配置p7.jpg)
+![https://rainwangpupil.github.io/assets/配置p7.jpg](https://rainwangpupil.github.io/assets/配置p7.jpg)
 
 # 写博客
 
